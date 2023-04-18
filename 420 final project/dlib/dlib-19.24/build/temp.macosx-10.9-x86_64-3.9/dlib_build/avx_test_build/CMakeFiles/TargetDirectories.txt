@@ -1,0 +1,2 @@
+/Users/chen/Desktop/Image-Understanding/420 final project/dlib-19.24/build/temp.macosx-10.9-x86_64-3.9/dlib_build/avx_test_build/CMakeFiles/edit_cache.dir
+/Users/chen/Desktop/Image-Understanding/420 final project/dlib-19.24/build/temp.macosx-10.9-x86_64-3.9/dlib_build/avx_test_build/CMakeFiles/rebuild_cache.dir
